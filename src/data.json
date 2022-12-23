@@ -1,0 +1,62 @@
+[
+    {"id":1,
+     "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/af/02/83/urla-sarapcilik.jpg?w=500&h=400&s=1",
+     "title":"Urla Şarapçlık",
+     "description":"Şarap İmalathaneleri ve Üzüm Bağları"
+
+    },
+    {"id":2,
+    "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/41/03/9f/giris.jpg?w=500&h=-1&s=1",
+    "title":"Urla Sanat Sokağı",
+    "description":"Bit Pazarları ve Sokak Pazarları"
+
+   },
+   {"id":3,
+   "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6b/11/d2/kostem-zeytinyagi-muzesi.jpg?w=500&h=400&s=1",
+   "title":"Köstem Zeytinyağı Müzesi",
+   "description":"Özel Müzeler"
+
+  },
+  {"id":4,
+  "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8a/ad/7e/urla-iskele.jpg?w=500&h=-1&s=1",
+  "title":"Urla Marina",
+  "description":"Marinalar"
+
+ },
+ {"id":5,
+ "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/14/3a/fd/photo0jpg.jpg?w=500&h=400&s=1",
+ "title":"Urla-iskele Berlin's",
+ "description":"Barlar ve Kulüpler"
+
+},
+{"id":6,
+"image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/8c/f3/photo0jpg.jpg?w=500&h=400&s=1",
+"title":"Marika Beach Club",
+"description":"Plajlar"
+
+},
+{"id":7,
+"image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/19/3a/bc/caption.jpg?w=500&h=-1&s=1",
+"title":"Demirci Köyü",
+"description":"Plajlar"
+
+},
+{"id":8,
+"image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8a/11/2b/malgaca-pazari.jpg?w=500&h=400&s=1",
+"title":"Malgaca Pazarı",
+"description":"Bit Pazarları ve Sokak Pazarları"
+
+},
+{"id":9,
+"image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/2b/0b/d9/caption.jpg?w=500&h=400&s=1",
+"title":"Özbek Akkum Plajı",
+"description":"Plajlar"
+
+},
+{"id":10,
+"image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/bb/2a/11/gru-art-gallery-backyard.jpg?w=500&h=400&s=1",
+"title":"Gru Art Gallery",
+"description":"Sanat Galerileri"
+
+}
+]
