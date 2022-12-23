@@ -1,5 +1,5 @@
 
-## Project: Searh Filter App
+## Project: Search Filter App
 
 
 
