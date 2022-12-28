@@ -1,3 +1,32 @@
+
+## Project: Search Filter App
+## Check The Live Website :arrow_right: [Live Website](https://visit-urla.netlify.app/)
+
+
+## Animation of the App
+
+![image](./search-filter.gif)
+
+## Visulation of the App
+
+![image](./search-filter.png)
+
+## Description
+```bash
+- User can list mostly visited Urla places
+- User can search any places using textbox
+```
+
+## Overview
+I mastered HTML, CSS, Javascript and React features in this project. You can see the visual representation of the app above.
+
+## Technologies 💻
+```bash
+- React(useState,useEffect)
+- JSON Datas retrieved from [https://www.tripadvisor.com.tr/Attractions-g2543601-Activities-Urla_Izmir_Province_Turkish_Aegean_Coast.html]
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
