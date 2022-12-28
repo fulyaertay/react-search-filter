@@ -5,11 +5,15 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .input {
+    width: 100%;
+  }
+}
 img {
   width: 200px;
   height: 200px;
-
   border-radius: 10px;
 }
 
